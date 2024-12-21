@@ -2,7 +2,7 @@
 
 -   **Device Management**: Easily manage all device data and information. The device group feature allows devices to be grouped based on different scenarios, improving the efficiency of device management.
 
--   **Personnel Management**: Provides comprehensive role, department, and permission management functions to ensure that each user has access only within their authorized scope, enhancing system security.
+-   **Personnel Management**: Provides comprehensive role, department, and permission management functions to ensure that each user has access only within their authorized scope, enhancing system security
 
 -   **Lifecycle Management**: Involves the entire process from production to delivery of devices, ensuring smooth execution at each stage and enabling tracking of the device's status and progress.
 
